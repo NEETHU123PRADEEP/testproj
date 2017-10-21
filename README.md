@@ -1,3 +1,3 @@
 # testproj
 my project
-my first project
+first project
